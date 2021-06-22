@@ -7,13 +7,14 @@ body{
     margin: 0;
     padding: 0;
    color: white;
+   background-color: rgb(211, 202, 202);
 }
 
 
 .grid > div {
 
    
-     border: solid 20px white ;
+     border: solid 20px  rgb(211, 202, 202) ;
 }
 
 .grid{
@@ -56,13 +57,13 @@ body{
 
 .case6{
 
-    background-color:white;
+    background-color:rgb(211, 202, 202);
     
 }
 
 .case7{
 
-    background-color:white;
+    background-color:rgb(211, 202, 202);
 }
 
 .case8{
@@ -80,7 +81,7 @@ body{
 
 .case10{
 
-    background-color:white;
+    background-color:rgb(211, 202, 202);
 }
 
 .case11{
